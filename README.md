@@ -1,1 +1,1 @@
-# odin-recipes
+A British collection of British Family Favourite Recipes. Welcome to British Family cooking! This project will be an opportunity to show off some HTML chops as well as some PORK chops. Without further ado - let's eat!
